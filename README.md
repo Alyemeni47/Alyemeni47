@@ -17,7 +17,7 @@ Welcome to my GitHub profile! Here's a bit about me:
   - Blockchain fundamentals and DeFi.  
 
 - 🛠️ **Tech Stack**  
-  - Blockchain: Solana, Binance Smart Chain  
+  - Blockchain: Solana Network.   
   - Tools: Phantom Wallet, Remix IDE, Metaplex Token Metadata  
 
 - 📫 **Connect with Me**  
