@@ -9,7 +9,7 @@ Welcome to my GitHub profile! Here's a bit about me:
   Currently building and managing **NexaCoin**, a cutting-edge Solana-based cryptocurrency focused on speed, scalability, and innovation. Stay tuned for exciting updates!
 
 - 💡 **What I’m Learning**  
-  - Smart contract development on Solana and Binance Smart Chain (BSC).  
+  - Smart contract development on Solana Network.  
   - Advanced tokenomics and crypto marketing strategies.  
 
 - 💬 **Ask Me About**  
